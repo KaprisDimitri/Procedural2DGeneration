@@ -1,0 +1,14 @@
+D:\VisualProject\Cellular Automata Method\Cellular Automata Method\obj\Debug\net6.0\Cellular Automata Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualProject\Cellular Automata Method\Cellular Automata Method\obj\Debug\net6.0\Cellular Automata Method.AssemblyInfoInputs.cache
+D:\VisualProject\Cellular Automata Method\Cellular Automata Method\obj\Debug\net6.0\Cellular Automata Method.AssemblyInfo.cs
+D:\VisualProject\Cellular Automata Method\Cellular Automata Method\obj\Debug\net6.0\Cellular Automata Method.csproj.CoreCompileInputs.cache
+D:\VisualProject\Cellular Automata Method\Cellular Automata Method\bin\Debug\net6.0\Cellular Automata Method.exe
+D:\VisualProject\Cellular Automata Method\Cellular Automata Method\bin\Debug\net6.0\Cellular Automata Method.deps.json
+D:\VisualProject\Cellular Automata Method\Cellular Automata Method\bin\Debug\net6.0\Cellular Automata Method.runtimeconfig.json
+D:\VisualProject\Cellular Automata Method\Cellular Automata Method\bin\Debug\net6.0\Cellular Automata Method.dll
+D:\VisualProject\Cellular Automata Method\Cellular Automata Method\bin\Debug\net6.0\Cellular Automata Method.pdb
+D:\VisualProject\Cellular Automata Method\Cellular Automata Method\obj\Debug\net6.0\Cellular Automata Method.dll
+D:\VisualProject\Cellular Automata Method\Cellular Automata Method\obj\Debug\net6.0\refint\Cellular Automata Method.dll
+D:\VisualProject\Cellular Automata Method\Cellular Automata Method\obj\Debug\net6.0\Cellular Automata Method.pdb
+D:\VisualProject\Cellular Automata Method\Cellular Automata Method\obj\Debug\net6.0\Cellular Automata Method.genruntimeconfig.cache
+D:\VisualProject\Cellular Automata Method\Cellular Automata Method\obj\Debug\net6.0\ref\Cellular Automata Method.dll
